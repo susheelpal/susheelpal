@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @susheelpal
 - 👀 I’m interested in Software Engineering
 - 🌱 I’m currently learning DevOps. 
-- 💞️ I’m looking to collaborate on open source.
+- 💞️ I’m looking to collaborate in open source.
 - 📫 How to reach me - er.susheelpal@gmail.com
 
 <!---
